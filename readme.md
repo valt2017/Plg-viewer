@@ -12,14 +12,14 @@ plg.exe file.plg
 ##PLG format desciption and demo files from Thanassis Tsiodras (Hawk/Enigma)
 
 Say for example that you have just one triangle forming the "scene", 
-with these coordinates:
+with these coordinates:\
 
-  Point 1:   10, 10, 10
-  Point 2:   -10,10, 60
-  Point 3:  110, 0, -10
-
+  Point 1:   10, 10, 10  
+  Point 2:   -10,10, 60  
+  Point 3:  110, 0, -10  
+  
 Then the .plg file representing this "object" would be this:
-
+  
 Line 1:
 object_name 3 1
             | |
